@@ -1,5 +1,5 @@
 # new-test-01
 ====================
 test for fun!
-this is the version 01.
+This is version 02
 Something funny should happen!
